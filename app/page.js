@@ -82,7 +82,7 @@ const FontLink = () => (
 const COMPANY = {
   name:        "Nitro Engineering",
   tagline:     "Premium Solar Solutions · Since 2015",
-  whatsapp:    "2348012345678",
+  whatsapp:    "2347036112930",
   email:       "sales@nitroengineering.ng",
   phone:       "+234 801 234 5678",
   salesPerson: "Chukwuemeka (Solar Advisor)",
